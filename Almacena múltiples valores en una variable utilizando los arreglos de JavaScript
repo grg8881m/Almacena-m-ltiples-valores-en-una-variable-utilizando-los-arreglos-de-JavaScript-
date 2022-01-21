@@ -1,0 +1,3 @@
+// Cambia solo el código debajo de esta línea
+const myArray = ["Milton", 8];
+console.log(myArray);
